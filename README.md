@@ -23,6 +23,8 @@ The system generates contextually aware captions for various video types:
 |------------|--------------------|-----------------------|-----------------|
 | Cooking Video | "a woman is seasoning some food" | "a woman is seasoning some food" | 22.05s vs 0.70s |
 | Performance | "a man is singing" | "a man is performing on a stage" | 13.79s vs 0.77s |
+| Sports Activity | "a man is riding a bicycle" | "a man is riding a bicycle" | 22.20s vs 0.66s |
+| Pet Activity | "a cat is playing the piano" | "a cat is playing the piano" | 26.48s vs 0.70s |
 
 ## Dataset
 
